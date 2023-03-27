@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\bin\Debug\net6.0\MorkBorgCharacterGenerator.exe
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\bin\Debug\net6.0\MorkBorgCharacterGenerator.deps.json
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\bin\Debug\net6.0\MorkBorgCharacterGenerator.runtimeconfig.json
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\bin\Debug\net6.0\MorkBorgCharacterGenerator.dll
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\bin\Debug\net6.0\MorkBorgCharacterGenerator.pdb
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\obj\Debug\net6.0\MorkBorgCharacterGenerator.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\obj\Debug\net6.0\MorkBorgCharacterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\obj\Debug\net6.0\MorkBorgCharacterGenerator.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\obj\Debug\net6.0\MorkBorgCharacterGenerator.AssemblyInfo.cs
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\obj\Debug\net6.0\MorkBorgCharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\obj\Debug\net6.0\MorkBorgCharacterGenerator.dll
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\obj\Debug\net6.0\refint\MorkBorgCharacterGenerator.dll
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\obj\Debug\net6.0\MorkBorgCharacterGenerator.pdb
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\obj\Debug\net6.0\MorkBorgCharacterGenerator.genruntimeconfig.cache
+C:\Users\andre\source\repos\MorkBorgCharacterGenerator\MorkBorgCharacterGenerator\obj\Debug\net6.0\ref\MorkBorgCharacterGenerator.dll
